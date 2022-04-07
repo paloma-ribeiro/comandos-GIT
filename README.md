@@ -20,7 +20,7 @@ Adicionar arquivos que serão versionados pelo Git (Stage):
 
 > git add .
 
-Commitar mudanças ou seja, gerar um identificador para as alterações realizadas nos arquivos do projeto:
+Commitar mudanças, ou seja, gerar um identificador para as alterações realizadas nos arquivos do projeto:
 > git commit
 
 > git commit -m "Descrição/Comentário das modificações/alterações realizadas"
