@@ -67,7 +67,7 @@ Visualizar o histórico de commits baseado em uma mensagem:
 Visualizar o histórico de commits de várias branchs:
 > git log --all
 
-- Navegar entre commits:
+Navegar entre commits:
 > git checkout [hash do commit para o qual se quer navegar]
 
 Visualizar branchs de uma maneira mais legível:
